@@ -1,11 +1,12 @@
 ## Laravel Resume Uploader API
-### Video Link:- 
+### Video Link:- https://www.youtube.com/watch?v=VaS1943QgJA
 
 ## To Run this Project follow below:
 
 ```bash
 composer install
 php artisan migrate
+php artisan storage:link
 php artisan serve
 ```
 
